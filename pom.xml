@@ -65,6 +65,13 @@
             <artifactId>springfox-swagger-ui</artifactId>
             <version>3.0.0</version>
         </dependency>
+
+        <dependency>
+            <groupId>mak</groupId>
+            <artifactId>LoggerService</artifactId>
+            <version>1.11</version>
+            <scope>import</scope>
+        </dependency>
     </dependencies>
 
 </project>
